@@ -1,0 +1,8 @@
+Acancelbot is a php script that download USENET messages from innd without using TCP/IP connections and then verifies if they contain some regular 
+expressions decided by the user and in case it generates a cancel message. Traditional cancel messages are supported as well as NOCEM cancels.
+This script requires INND, an open source news server.
+
+Beware! This code is an alpha release, it is probably bugged. Read the code before trying to use it.
+
+Copyright by Paolo Amoroso <estasi@aioe.org>, ©2018
+
